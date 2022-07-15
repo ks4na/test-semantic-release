@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ks4na/test-semantic-release/issues"
   },
-  "homepage": "https://github.com/ks4na/test-semantic-release#readme"
+  "homepage": "https://github.com/ks4na/test-semantic-release#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "husky": "^8.0.1"
+  }
 }
